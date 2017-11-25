@@ -132,43 +132,43 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Firebase.Editor">
- <HintPath>C:/Users/MARCELLINO/Desktop/TurnItUp/Assets/Firebase/Editor/Firebase.Editor.dll</HintPath>
+ <HintPath>C:/Users/MARCELLINO/Documents/turnitup/unity/TurnItUp/Assets/Firebase/Editor/Firebase.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Firebase.Analytics">
- <HintPath>C:/Users/MARCELLINO/Desktop/TurnItUp/Assets/Firebase/Plugins/Firebase.Analytics.dll</HintPath>
+ <HintPath>C:/Users/MARCELLINO/Documents/turnitup/unity/TurnItUp/Assets/Firebase/Plugins/Firebase.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="Firebase.App">
- <HintPath>C:/Users/MARCELLINO/Desktop/TurnItUp/Assets/Firebase/Plugins/Firebase.App.dll</HintPath>
+ <HintPath>C:/Users/MARCELLINO/Documents/turnitup/unity/TurnItUp/Assets/Firebase/Plugins/Firebase.App.dll</HintPath>
  </Reference>
  <Reference Include="Firebase.Auth">
- <HintPath>C:/Users/MARCELLINO/Desktop/TurnItUp/Assets/Firebase/Plugins/Firebase.Auth.dll</HintPath>
+ <HintPath>C:/Users/MARCELLINO/Documents/turnitup/unity/TurnItUp/Assets/Firebase/Plugins/Firebase.Auth.dll</HintPath>
  </Reference>
  <Reference Include="Firebase.Database">
- <HintPath>C:/Users/MARCELLINO/Desktop/TurnItUp/Assets/Firebase/Plugins/Firebase.Database.dll</HintPath>
+ <HintPath>C:/Users/MARCELLINO/Documents/turnitup/unity/TurnItUp/Assets/Firebase/Plugins/Firebase.Database.dll</HintPath>
  </Reference>
  <Reference Include="Google.MiniJson">
- <HintPath>C:/Users/MARCELLINO/Desktop/TurnItUp/Assets/Firebase/Plugins/Google.MiniJson.dll</HintPath>
+ <HintPath>C:/Users/MARCELLINO/Documents/turnitup/unity/TurnItUp/Assets/Firebase/Plugins/Google.MiniJson.dll</HintPath>
  </Reference>
  <Reference Include="Google.Sharpen">
- <HintPath>C:/Users/MARCELLINO/Desktop/TurnItUp/Assets/Firebase/Plugins/Google.Sharpen.dll</HintPath>
+ <HintPath>C:/Users/MARCELLINO/Documents/turnitup/unity/TurnItUp/Assets/Firebase/Plugins/Google.Sharpen.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Compat">
- <HintPath>C:/Users/MARCELLINO/Desktop/TurnItUp/Assets/Parse/Plugins/Unity.Compat.dll</HintPath>
+ <HintPath>C:/Users/MARCELLINO/Documents/turnitup/unity/TurnItUp/Assets/Parse/Plugins/Unity.Compat.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Tasks">
- <HintPath>C:/Users/MARCELLINO/Desktop/TurnItUp/Assets/Parse/Plugins/Unity.Tasks.dll</HintPath>
+ <HintPath>C:/Users/MARCELLINO/Documents/turnitup/unity/TurnItUp/Assets/Parse/Plugins/Unity.Tasks.dll</HintPath>
  </Reference>
  <Reference Include="Google.IOSResolver_v1.2.59.0">
- <HintPath>C:/Users/MARCELLINO/Desktop/TurnItUp/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.59.0.dll</HintPath>
+ <HintPath>C:/Users/MARCELLINO/Documents/turnitup/unity/TurnItUp/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.59.0.dll</HintPath>
  </Reference>
  <Reference Include="Google.JarResolver_v1.2.59.0">
- <HintPath>C:/Users/MARCELLINO/Desktop/TurnItUp/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.59.0.dll</HintPath>
+ <HintPath>C:/Users/MARCELLINO/Documents/turnitup/unity/TurnItUp/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.59.0.dll</HintPath>
  </Reference>
  <Reference Include="Google.VersionHandler">
- <HintPath>C:/Users/MARCELLINO/Desktop/TurnItUp/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
+ <HintPath>C:/Users/MARCELLINO/Documents/turnitup/unity/TurnItUp/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
  </Reference>
  <Reference Include="Google.VersionHandlerImpl_v1.2.59.0">
- <HintPath>C:/Users/MARCELLINO/Desktop/TurnItUp/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.59.0.dll</HintPath>
+ <HintPath>C:/Users/MARCELLINO/Documents/turnitup/unity/TurnItUp/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.59.0.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
