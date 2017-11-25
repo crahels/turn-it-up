@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "490859246433",
+    "firebase_url": "https://turnituptrilogy.firebaseio.com",
+    "project_id": "turnituptrilogy",
+    "storage_bucket": "turnituptrilogy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490859246433:android:cf03e48c4b141efb",
+        "android_client_info": {
+          "package_name": "com.trilogy.turnitup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490859246433-b56n0q37581pugra38f03h7v53tnmlfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-s4KRUbLnL5TjPsTLqfQfhbdxOM7OXJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490859246433:android:d6a85f79cf09fef5",
+        "android_client_info": {
+          "package_name": "com.firebase.unity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490859246433-b56n0q37581pugra38f03h7v53tnmlfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-s4KRUbLnL5TjPsTLqfQfhbdxOM7OXJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

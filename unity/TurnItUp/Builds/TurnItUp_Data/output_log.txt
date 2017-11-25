@@ -1,0 +1,2852 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940M (ID=0x1347)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\Firebase.Analytics.dll (this message is harmless)
+Loading C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\Firebase.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\Firebase.App.dll (this message is harmless)
+Loading C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\Firebase.App.dll into Unity Child Domain
+Platform assembly: C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\Firebase.Auth.dll (this message is harmless)
+Loading C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\Firebase.Auth.dll into Unity Child Domain
+Platform assembly: C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\Firebase.Database.dll (this message is harmless)
+Loading C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\Firebase.Database.dll into Unity Child Domain
+Platform assembly: C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\Google.MiniJson.dll (this message is harmless)
+Loading C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\Google.MiniJson.dll into Unity Child Domain
+Platform assembly: C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\Google.Sharpen.dll (this message is harmless)
+Loading C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\Google.Sharpen.dll into Unity Child Domain
+Platform assembly: C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\Unity.Compat.dll (this message is harmless)
+Loading C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\Unity.Compat.dll into Unity Child Domain
+Platform assembly: C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\Unity.Tasks.dll (this message is harmless)
+Loading C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\Unity.Tasks.dll into Unity Child Domain
+- Completed reload, in  0.038 seconds
+Platform assembly: C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.148105 ms
+Platform assembly: C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\Mono.Security.dll (this message is harmless)
+Fallback handler could not load library C:/Users/MARCELLINO/Desktop/TurnItUp/Builds/TurnItUp_Data/Mono/.\/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+Fallback handler could not load library C:/Users/MARCELLINO/Desktop/TurnItUp/Builds/TurnItUp_Data/Mono/lib/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+Fallback handler could not load library C:/Users/MARCELLINO/Desktop/TurnItUp/Builds/TurnItUp_Data/Mono/.\lib/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+Fallback handler could not load library C:/Users/MARCELLINO/Desktop/TurnItUp/Builds/TurnItUp_Data/Mono/lib/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+Platform assembly: C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\MARCELLINO\Desktop\TurnItUp\Builds\TurnItUp_Data\Managed\System.Xml.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 110c -> priority: 1 
+  Thread -> id: 30e8 -> priority: 1 
+sXP8DcbaOtMt0AKb9osYF82yKVo1 token 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ida
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ida
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'unitychan_black') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'unitychan') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.382873 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2007.
+Total: 5.809679 ms (FindLiveObjects: 0.177904 ms CreateObjectMapping: 0.040199 ms MarkObjects: 5.566771 ms  DeleteObjects: 0.023093 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.GetAnimation () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapphiArtChan_AnimManager.SetFacial () [0x00000] in <filename unknown>:0 
+  at SapphiArtChan_AnimManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.960938 ms
+
+Unloading 134 unused Assets to reduce memory usage. Loaded Objects now: 5247.
+Total: 17.947353 ms (FindLiveObjects: 0.353242 ms CreateObjectMapping: 0.066286 ms MarkObjects: 6.763775 ms  DeleteObjects: 10.762767 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.631644 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 337.
+Total: 7.460851 ms (FindLiveObjects: 0.083820 ms CreateObjectMapping: 0.022238 ms MarkObjects: 3.969484 ms  DeleteObjects: 3.384026 ms)
+
+The referenced script on this Behaviour (Game Object 'unitychan_dancing3') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'unitychan_dancing') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'unitychan_dancing2') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.327155 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 3033.
+Total: 5.398703 ms (FindLiveObjects: 0.169778 ms CreateObjectMapping: 0.035495 ms MarkObjects: 5.069838 ms  DeleteObjects: 0.122736 ms)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityStandardAssets.Characters.ThirdPerson.ThirdPersonCharacter.CheckGroundStatus () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.ThirdPerson.ThirdPersonCharacter.Move (Vector3 move, Boolean crouch, Boolean jump) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.ThirdPerson.ThirdPersonUserControl.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

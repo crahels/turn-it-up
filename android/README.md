@@ -1,5 +1,5 @@
 Cara menjalankan project Turn It Up:
-1. Clone repository dari branch "finalresult" ke folder lokal.
+1. Clone repository ke folder lokal.
 2. Buka project pada Android Studio.
 3. Jika ingin menjalankan aplikasi menggunakan smartphone atau emulator
    pastikan Internet dan Location Service pada platform yang bersangkutan
