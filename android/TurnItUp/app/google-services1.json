@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "509065470415",
+    "firebase_url": "https://testfirebase-230dc.firebaseio.com",
+    "project_id": "testfirebase-230dc",
+    "storage_bucket": "testfirebase-230dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509065470415:android:31c9436338abbb84",
+        "android_client_info": {
+          "package_name": "com.trilogy.turnitup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509065470415-2uvookn94jh6r5lk09ech5t9cm16vajo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trilogy.turnitup",
+            "certificate_hash": "dd39f9cb1ecc32c9ea3d07620686168edf5cc368"
+          }
+        },
+        {
+          "client_id": "509065470415-dtg6lfhqqgspmi3hbb9agp8j9hrrp3lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi4z_GfdfDm6SD1DlhXmLT2xyfhWayhk4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509065470415-dtg6lfhqqgspmi3hbb9agp8j9hrrp3lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

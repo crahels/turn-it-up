@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back_portrait">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:id="@+id/relativeLayout2">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true">
+
+            <ImageView
+                android:id="@+id/static_right"
+                android:src="@drawable/static_right"
+                android:layout_width="85dp"
+                android:layout_height="85dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignStart="@+id/right_arrow"
+                android:layout_toRightOf="@+id/static_up">
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/right_arrow"
+                android:src="@drawable/left_arrow"
+                android:layout_width="85dp"
+                android:layout_height="85dp"
+                android:rotation="180"
+                android:layout_above="@+id/controller"
+                android:layout_toRightOf="@+id/up_arrow"
+                android:visibility="invisible">
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/static_left"
+                android:src="@drawable/static_right"
+                android:layout_width="85dp"
+                android:layout_height="85dp"
+                android:rotation="180"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentStart="true">
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/left_arrow"
+                android:src="@drawable/left_arrow"
+                android:layout_width="85dp"
+                android:layout_height="85dp"
+                android:layout_above="@+id/controller"
+                android:layout_alignParentStart="true"
+                android:visibility="invisible">
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/static_up"
+                android:src="@drawable/static_down"
+                android:layout_width="85dp"
+                android:layout_height="85dp"
+                android:rotation="180"
+                android:layout_alignParentTop="true"
+                android:layout_alignStart="@+id/up_arrow"
+                android:layout_toRightOf="@+id/static_down">
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/up_arrow"
+                android:src="@drawable/up_arrow"
+                android:layout_width="85dp"
+                android:layout_height="85dp"
+                android:layout_above="@+id/controller"
+                android:layout_toRightOf="@+id/down_arrow"
+                android:visibility="invisible">
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/static_down"
+                android:src="@drawable/static_down"
+                android:layout_width="85dp"
+                android:layout_height="85dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignStart="@+id/down_arrow"
+                android:layout_toRightOf="@+id/static_left">
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/down_arrow"
+                android:src="@drawable/up_arrow"
+                android:layout_width="85dp"
+                android:layout_height="85dp"
+                android:rotation="180"
+                android:layout_above="@+id/controller"
+                android:layout_toRightOf="@+id/left_arrow"
+                android:visibility="invisible">
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/controller"
+                android:layout_width="175dp"
+                android:layout_height="175dp"
+                android:src="@drawable/origin_arrow"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true">
+            </ImageView>
+
+            <TextView
+                android:id="@+id/text_info"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="cursive"
+                android:textSize="15pt"
+                android:text="@string/controller_arduino"
+                android:layout_above="@+id/controller"
+                android:textAlignment="center"
+                android:gravity="center_horizontal"
+                android:textAppearance="@style/TextAppearance.AppCompat.Widget.PopupMenu.Large"
+                android:layout_centerHorizontal="true" />
+
+            <TextView
+                android:id="@+id/text_begin"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:background="#FFFFFF"
+                android:fontFamily="cursive"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="@string/ready_go"
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.AppCompat.Widget.PopupMenu.Large"
+                android:textSize="15pt"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/left_arrow2"
+                android:src="@drawable/left_arrow"
+                android:layout_width="85dp"
+                android:layout_height="85dp"
+                android:layout_above="@+id/controller"
+                android:layout_alignParentStart="true"
+                android:visibility="invisible">
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/right_arrow2"
+                android:src="@drawable/left_arrow"
+                android:layout_width="85dp"
+                android:layout_height="85dp"
+                android:rotation="180"
+                android:layout_above="@+id/controller"
+                android:layout_toRightOf="@+id/up_arrow"
+                android:visibility="invisible">
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/up_arrow2"
+                android:src="@drawable/up_arrow"
+                android:layout_width="85dp"
+                android:layout_height="85dp"
+                android:layout_above="@+id/controller"
+                android:layout_toRightOf="@+id/down_arrow"
+                android:visibility="invisible">
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/down_arrow2"
+                android:src="@drawable/up_arrow"
+                android:layout_width="85dp"
+                android:layout_height="85dp"
+                android:rotation="180"
+                android:layout_above="@+id/controller"
+                android:layout_toRightOf="@+id/left_arrow"
+                android:visibility="invisible">
+            </ImageView>
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>

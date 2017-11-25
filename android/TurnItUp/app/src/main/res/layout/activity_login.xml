@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true"
+    tools:context="com.trilogy.turnitup.LoginActivity">
+
+    <RelativeLayout
+        android:id="@+id/main_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimaryLogin"
+        android:paddingBottom="20dp"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:paddingTop="20dp">
+
+        <ImageView
+            android:id="@+id/icon"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:contentDescription="@string/app_logo"
+            android:src="@drawable/turn_it_up" />
+
+        <EditText
+            android:id="@+id/field_email"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@id/icon"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/field"
+            android:drawableLeft="@drawable/ic_email_black"
+            android:drawablePadding="10dp"
+            android:hint="Email"
+            android:inputType="textEmailAddress"/>
+
+        <EditText
+            android:id="@+id/field_password"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/field_email"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/field"
+            android:drawableLeft="@drawable/ic_password_black"
+            android:drawablePadding="10dp"
+            android:hint="Password"
+            android:inputType="textPassword" />
+
+        <Button
+            android:id="@+id/sign_in_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/field_password"
+            android:layout_marginTop="50dp"
+            android:background="@color/colorPrimaryDarkLogin"
+            android:hapticFeedbackEnabled="true"
+            android:onClick="signIn"
+            android:text="Sign In"
+            android:textColor="#ffffff" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/sign_in_button"
+            android:layout_marginTop="40dp">
+
+            <TextView
+                android:id="@+id/text_no_account"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="Don't have an account?"
+                android:textColor="@android:color/black"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/register_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/text_no_account"
+                android:background="@color/colorPrimaryDarkLogin"
+                android:hapticFeedbackEnabled="true"
+                android:text="Register"
+                android:textColor="#ffffff" />
+
+        </RelativeLayout>
+
+        <ProgressBar
+            android:id="@+id/loading_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            style="?android:attr/progressBarStyleLarge"
+            android:indeterminate="true"
+            android:visibility="gone"
+            android:background="@drawable/round_back"/>
+
+    </RelativeLayout>
+
+</ScrollView>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- #3F51B5 -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#fb3742</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorProfile">#f1c950</color>
+    <color name="colorSelect">#fb3742</color>
+    <color name="colorHighscore">#f1c950</color>
+    <color name="colorHowtoPlay">#54c3de</color>
+    <color name="colorHelp">#48cfad</color>
+	<color name="colorPrimaryLogin">#4b0082</color>
+    <color name="colorPrimaryDarkLogin">#190054</color>
+    <color name="colorPrimaryLightLogin">#7d38b3</color>
+    <color name="colorAccentLogin">#FF4081</color>
+    <color name="colorLirik">#fbbdca</color>
+</resources>

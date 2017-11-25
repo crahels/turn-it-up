@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Turn It Up!</string>
+    <string name="text_select">Select Music</string>
+    <string name="text_highscore">Show Highscores</string>
+    <string name="text_howtoplay">How to Play</string>
+    <string name="text_help">Help</string>
+    <string name="highscore">High Scores</string>
+    <string name="ready_go">How to play this game? You just have to watch the screen and wait until the moving arrow touch the static arrow. If such condition happens, you have to press on the arrow with your controller as soon as possible. You will get perfect, good, or miss grade based on your accuracy.</string>
+    <string name="go">Go!</string>
+    <string name="perfect">Perfect!</string>
+    <string name="awesome">You are awesome!</string>
+    <string name="good">Good!</string>
+    <string name="controller_arduino">This is your controller.</string>
+    <string name="ready">Ready?</string>
+	<string name="app_logo">Turn It Up! Logo</string>
+    <string name="loading">Loading…</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="sign_out">Sign Out</string>
+	<string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ini_daftar_lagu">ini_daftar_lagu</string>
+    <string name="ini_lirik_lagu">ini_lirik_lagu</string>
+    <string name="music_player">music_player</string>
+    <string name="magnetic">Not supported magnetic sensor</string>
+
+    <string-array name="title">
+        <item>Closer</item>
+        <item>Give Me 4 Minutes</item>
+        <item>Shape of You</item>
+    </string-array>
+
+    <string-array name="singer">
+        <item>The Chainsmokers feat Halsey</item>
+        <item>Madonna feat Britney Spears</item>
+        <item>Ed Sheeran</item>
+    </string-array>
+	
+	<string name="start_updates">Start updates</string>
+    <string name="stop_updates">Stop updates</string>
+	<string name="location_settings_inadequate_warning">The location settings on the device are not adequate to run this sample. Fix in Settings.</string>
+	<string name="address_found">Address found</string>
+    <string name="no_address_found">Sorry, no address found</string>
+    <string name="no_location_data_provided">No location data provided</string>
+    <string name="service_not_available">Sorry, the service is not available</string>
+    <string name="invalid_lat_long_used">Invalid latitude or longitude used</string>
+</resources>

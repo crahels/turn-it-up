@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true"
+    tools:context="com.trilogy.turnitup.RegisterActivity">
+
+    <RelativeLayout
+        android:id="@+id/main_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimaryLogin"
+        android:paddingBottom="20dp"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:paddingTop="20dp">
+
+        <ImageView
+            android:id="@+id/icon"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:contentDescription="@string/app_logo"
+            android:src="@drawable/turn_it_up" />
+
+        <LinearLayout
+            android:id="@+id/form"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/icon"
+            android:layout_marginTop="20dp"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/field_username"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/field"
+                android:drawableLeft="@drawable/ic_person_black"
+                android:drawablePadding="10dp"
+                android:hint="Username"
+                android:inputType="textEmailAddress" />
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="30dp" />
+
+            <EditText
+                android:id="@+id/field_email"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/field"
+                android:drawableLeft="@drawable/ic_email_black"
+                android:drawablePadding="10dp"
+                android:hint="Email"
+                android:inputType="textEmailAddress" />
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="30dp" />
+
+            <EditText
+                android:id="@+id/field_password"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/field"
+                android:drawableLeft="@drawable/ic_password_black"
+                android:drawablePadding="10dp"
+                android:hint="Password"
+                android:inputType="textPassword" />
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="30dp" />
+
+            <EditText
+                android:id="@+id/field_confirm_password"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/field"
+                android:drawableLeft="@drawable/ic_password_black"
+                android:drawablePadding="10dp"
+                android:hint="Confirm Password"
+                android:inputType="textPassword" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/sign_up_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/form"
+            android:layout_marginTop="30dp"
+            android:background="@color/colorPrimaryDarkLogin"
+            android:hapticFeedbackEnabled="true"
+            android:text="Register"
+            android:textColor="#ffffff" />
+
+        <ProgressBar
+            android:id="@+id/loading_bar"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:indeterminate="true"
+            android:visibility="gone"
+            android:background="@drawable/round_back"/>
+
+    </RelativeLayout>
+
+</ScrollView>

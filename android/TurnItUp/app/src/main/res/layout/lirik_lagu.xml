@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/colorLirik"
+    tools:context="com.trilogy.turnitup.LirikLagu">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:id="@+id/scroller_lirik"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical"
+        android:fillViewport="true">
+        <TextView
+            android:id="@+id/lirik"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:text="Lyrics not found"
+            android:scrollbarAlwaysDrawVerticalTrack="true"
+            android:background="@color/colorLirik"
+            android:textColor="@android:color/black"
+            android:padding="16dp"
+            android:textAlignment="center"
+            android:textSize="20dp" />
+    </ScrollView>
+
+</RelativeLayout>

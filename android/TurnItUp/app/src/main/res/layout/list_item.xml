@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Single List Item Design -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--<ImageView
+        android:id="@+id/image_score"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_centerVertical="true">
+    </ImageView>-->
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/image_score"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_centerVertical="true"
+        android:src="@drawable/ic_prof"
+        android:padding="10dp"
+        app:civ_border_color="@android:color/black"
+        app:civ_border_width="1.5dp" />
+
+    <ImageView
+        android:id="@+id/display_star"
+        android:layout_below="@+id/display_score"
+        android:layout_toRightOf="@+id/image_score"
+        android:layout_width="200dp"
+        android:layout_marginTop="-40dp"
+        android:layout_height="wrap_content">
+    </ImageView>
+
+    <TextView
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:id="@+id/display_user"
+        android:layout_toRightOf="@+id/image_score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="casual"
+        android:textColor="@android:color/background_light"
+        android:textStyle="bold"
+        android:textSize="12pt" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/display_score"
+        android:layout_below="@+id/display_user"
+        android:layout_toRightOf="@+id/image_score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="casual"
+        android:textColor="@android:color/background_light"
+        android:textStyle="bold"
+        android:textSize="12pt" >
+    </TextView>
+
+</RelativeLayout>
